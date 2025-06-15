@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "homepage": "https://vidhi-teotia.github.io/PortfolioWebsite",
   "name": "portfolio-frontend",
   "version": "0.1.0",
@@ -20,6 +19,9 @@
     "react-scripts": "5.0.1",
     "react-scroll": "^1.9.3",
     "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -46,10 +48,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-=======
->>>>>>> 21ee12db11c421f936fe3adae405439fac2a8779
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
   }
 }
