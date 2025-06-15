@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "homepage": "https://vidhi-teotia.github.io/PortfolioWebsite",
   "name": "portfolio-frontend",
   "version": "0.1.0",
@@ -46,6 +47,8 @@
       "last 1 safari version"
     ]
   },
+=======
+>>>>>>> 21ee12db11c421f936fe3adae405439fac2a8779
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }

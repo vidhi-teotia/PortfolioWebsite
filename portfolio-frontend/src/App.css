@@ -1,0 +1,41 @@
+body {
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+  scroll-behavior: smooth;
+  font-family: 'Poppins', sans-serif;
+  color: #222;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+section {
+  padding: 4rem 0;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h2 {
+  margin-bottom: 1rem;
+  border-bottom: 3px solid #5a67d8;
+  padding-bottom: 0.5rem;
+  width: fit-content;
+}
+
+button {
+  cursor: pointer;
+}
+
+@media (max-width: 768px) {
+  main {
+    margin-left: 0 !important;
+    padding: 1rem !important;
+  }
+
+  section {
+    padding: 2rem 1rem !important;
+  }
+}
